@@ -11,5 +11,6 @@ Daily or weekly summaries around my current focus or things I am working on, a s
   * 2026
     * 02
       * 05 - [**GitHub** <sub><sup>📄</sup></sub>](https://github.com/WebReflection/standup/blob/main/2026/02/05.md) / [**Web** <sub><sup>🌍</sup></sub>](https://webreflection.github.io/standup/2026/02/05.html)
+      * 26 - [**GitHub** <sub><sup>📄</sup></sub>](https://github.com/WebReflection/standup/blob/main/2026/02/26.md) / [**Web** <sub><sup>🌍</sup></sub>](https://webreflection.github.io/standup/2026/02/26.html)
 
 - - -
