@@ -1,5 +1,8 @@
 # Andrea Giammarchi Standup
 
+<sup>**Social Media Photo by [Cláudio Luiz Castro](https://unsplash.com/@claudiolcastro) on [Unsplash](https://unsplash.com/)**</sup>
+
+
 Daily or weekly summaries around my current focus or things I am working on, a space for me to describe my journey as OSS employee / contributor.
 
 [**GitHub** <sub><sup>📄</sup></sub>](https://github.com/WebReflection/standup) / [**Web** <sub><sup>🌍</sup></sub>](https://webreflection.github.io/standup/)
@@ -12,5 +15,7 @@ Daily or weekly summaries around my current focus or things I am working on, a s
     * 02
       * 05 - [**GitHub** <sub><sup>📄</sup></sub>](https://github.com/WebReflection/standup/blob/main/2026/02/05.md) / [**Web** <sub><sup>🌍</sup></sub>](https://webreflection.github.io/standup/2026/02/05.html)
       * 26 - [**GitHub** <sub><sup>📄</sup></sub>](https://github.com/WebReflection/standup/blob/main/2026/02/26.md) / [**Web** <sub><sup>🌍</sup></sub>](https://webreflection.github.io/standup/2026/02/26.html)
+    * 03
+      * 05 - [**GitHub** <sub><sup>📄</sup></sub>](https://github.com/WebReflection/standup/blob/main/2026/03/05.md) / [**Web** <sub><sup>🌍</sup></sub>](https://webreflection.github.io/standup/2026/03/05.html)
 
 - - -
