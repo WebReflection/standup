@@ -17,5 +17,7 @@ Daily or weekly summaries around my current focus or things I am working on, a s
       * 12 - [**GitHub** <sub><sup>📄</sup></sub>](https://github.com/WebReflection/standup/blob/main/2026/03/12.md) / [**Web** <sub><sup>🌍</sup></sub>](https://webreflection.github.io/standup/2026/03/12.html)
       * 18 - [**GitHub** <sub><sup>📄</sup></sub>](https://github.com/WebReflection/standup/blob/main/2026/03/18.md) / [**Web** <sub><sup>🌍</sup></sub>](https://webreflection.github.io/standup/2026/03/18.html)
       * 24 - [**GitHub** <sub><sup>📄</sup></sub>](https://github.com/WebReflection/standup/blob/main/2026/03/24.md) / [**Web** <sub><sup>🌍</sup></sub>](https://webreflection.github.io/standup/2026/03/24.html)
+    * 04
+      * 09 - [**GitHub** <sub><sup>📄</sup></sub>](https://github.com/WebReflection/standup/blob/main/2026/04/09.md) / [**Web** <sub><sup>🌍</sup></sub>](https://webreflection.github.io/standup/2026/04/09.html)
 
 - - -
