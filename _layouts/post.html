@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+{% assign path_parts = page.path | split: '/' %}
+{% assign year = path_parts[0] %}
+{% assign month = path_parts[1] %}
+{% assign day_file = path_parts[2] %}
+{% assign day = day_file | replace: '.md', '' %}
+{% assign iso_date = year | append: '-' | append: month | append: '-' | append: day %}
+{% assign source_url = 'https://github.com/' | append: site.repository | append: '/blob/main/' | append: page.path %}
+{% assign current_story_index = nil %}
+{% for story in site.data.stories %}
+  {% if story.path == page.path %}
+    {% assign current_story_index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+{% assign previous_story_index = current_story_index | minus: 1 %}
+{% assign next_story_index = current_story_index | plus: 1 %}
+
+<article class="post">
+  <header class="post-header">
+    <a class="back-link" href="{{ '/' | relative_url }}">Archive</a>
+    <p class="eyebrow">
+      <time datetime="{{ iso_date }}">{{ iso_date | date: '%B %-d, %Y' }}</time>
+    </p>
+  </header>
+
+  <div class="post-body">
+    {{ content }}
+  </div>
+
+  <footer class="post-footer">
+    {% for story in site.data.stories %}
+      {% if forloop.index0 == previous_story_index %}
+        <a href="{{ story.url | relative_url }}">Previous: {{ story.title }}</a>
+      {% endif %}
+    {% endfor %}
+    <a href="{{ source_url }}">View source on GitHub</a>
+    {% for story in site.data.stories %}
+      {% if forloop.index0 == next_story_index %}
+        <a href="{{ story.url | relative_url }}">Next: {{ story.title }}</a>
+      {% endif %}
+    {% endfor %}
+    <a href="{{ '/' | relative_url }}">Back to archive</a>
+  </footer>
+</article>

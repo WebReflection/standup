@@ -1,0 +1,19 @@
+title: Andrea Giammarchi's Standup
+description: Daily or weekly notes around OSS, work, experiments, and the occasional detour.
+url: https://webreflection.github.io
+baseurl: /standup
+repository: WebReflection/standup
+
+markdown: kramdown
+highlighter: rouge
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: post
+
+exclude:
+  - build.sh
+  - README.md
