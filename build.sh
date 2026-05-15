@@ -68,7 +68,8 @@ home_intro() {
   cat <<'EOF'
 ---
 layout: home
-title: Andrea Giammarchi's Standup
+title: Archive
+heading: Latest notes
 ---
 
 <section class="archive" aria-label="Story archive">
