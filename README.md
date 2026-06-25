@@ -1,6 +1,6 @@
 # Andrea Giammarchi's Standup
 
-Daily or weekly summaries around my current focus or things I am working on, a space for me to describe my journey as OSS employee / contributor.
+Daily, weekly or monthly summaries around my current focus or things I am working on, a space for me to describe my journey as OSS employee / contributor.
 
 [**GitHub** <sub><sup>📄</sup></sub>](https://github.com/WebReflection/standup) / [**Web** <sub><sup>🌍</sup></sub>](https://webreflection.github.io/standup/)
 
