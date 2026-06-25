@@ -7,6 +7,11 @@ heading: Latest notes
 <section class="archive" aria-label="Story archive">
   <h2 class="archive-year">2026</h2>
   <article class="archive-card">
+    <time class="archive-date" datetime="2026-06-25">06/25</time>
+    <a class="archive-title" href='{{ "/2026/06/25.html" | relative_url }}'>25th of June, 2026</a>
+    <a class="archive-source" href="https://github.com/WebReflection/standup/blob/main/2026/06/25.md">Source</a>
+  </article>
+  <article class="archive-card">
     <time class="archive-date" datetime="2026-06-04">06/04</time>
     <a class="archive-title" href='{{ "/2026/06/04.html" | relative_url }}'>4th of June, 2026</a>
     <a class="archive-source" href="https://github.com/WebReflection/standup/blob/main/2026/06/04.md">Source</a>
